@@ -1,1 +1,1 @@
-# This is Amazon Landin/Home Page using HTML CSS.
+# This is Amazon Landing/Home Page using HTML and CSS.
